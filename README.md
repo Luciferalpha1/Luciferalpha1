@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luciferalpha1
 - 👀 I’m interested in coding as you know, I usually code in Java, JS, css, HTML;
-- 🌱 I’m currently learning Java and improving my strength in other languages;
+- 🌱 I’m currently learning Javascript and improving my strength in other languages;
 - 📫 You can reach me on discord, Luciferalpha1#0009, my dms are always open;
 
 <!---
